@@ -21,3 +21,5 @@ Sololearn app is a must have for every beginner by my recommendation. I have gro
   <li>Module quiz to test your knowledge</li>
   <li>Several relatable projects for your to test your skill</li>
 </ul>
+<h2>Learning with W3 schools</h2>
+<a href="https://w3schools.com"><strong>W3Schools</strong></a> is robust platform to learn anything programming. I enjoyed learning on there and also served as my reference point. 
