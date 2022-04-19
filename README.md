@@ -22,4 +22,8 @@ Sololearn app is a must have for every beginner by my recommendation. I have gro
   <li>Several relatable projects for your to test your skill</li>
 </ul>
 <h2>Learning with W3 schools</h2>
-<a href="https://w3schools.com"><strong>W3Schools</strong></a> is robust platform to learn anything programming. I enjoyed learning on there and also served as my reference point. 
+<a href="https://w3schools.com"><strong>W3Schools</strong></a> is robust platform to learn anything programming. I enjoyed learning on there and also served as my reference point.
+<h2>Learning web fundamentals HTML, HTML5, CSS and JavaScript</h2>
+Scrimba.com 
+<h2>Bits and Bytes</h2>
+Bit is simply binary, mix of 0s and 1s. A group of four bits is called a nibble while a group of 8 bits is called byte. Byte is the basic unit of a computer. A bit is usually denoted by <b>b</b> while byte is denoted by <b>B</b>
