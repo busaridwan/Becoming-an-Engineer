@@ -12,4 +12,4 @@ Computer programming is an interesting read for me as I learnt it involves writi
 </br>
 
 # Learning on-the-go with Sololearn
-I downloaded the sololearn app 
+Sololearn app is a must have for every beginner by my recommendation. I have grow to be fond of the app, using it in almost every where at any available time and space. 
