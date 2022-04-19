@@ -13,3 +13,9 @@ Computer programming is an interesting read for me as I learnt it involves writi
 
 # Learning on-the-go with Sololearn
 Sololearn app is a must have for every beginner by my recommendation. I have grow to be fond of the app, using it in almost every where at any available time and space. 
+<h2>Benefits of learning with Sololearn app</h2>
+<ul><li>Very intuitive</li>
+  <li>Provides an editor "Try it now"</li>
+  <li>Discussion forum</li>
+  <li>Test</li>
+</ul>
